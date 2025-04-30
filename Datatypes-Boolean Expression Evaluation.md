@@ -32,3 +32,4 @@ print("d:", d)
 ![Screenshot 2025-04-30 103821](https://github.com/user-attachments/assets/575907ca-f6d2-4eff-83a0-9c6e9e772a6e)
 
 ## Result
+The code has been executed successfully.
